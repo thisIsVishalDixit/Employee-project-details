@@ -1,0 +1,100 @@
+nav {
+    background-color: rgb(57, 14, 11);
+    padding: 15px 0;
+    text-align: left;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: cyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0 green, 0 blue, 0.1 alpha);
+    color: black;
+
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="password"],
+form input[type="datetime-local"],
+form input[type="submit"],
+form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.table-responsive {
+    overflow-x: auto;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+    color: #000;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #e4ece7d3;
+}
+
+tr:hover {
+    background-color: #00000044;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.center-div {
+    width: 80%;
+}
+
+body {
+    background-color: rgba(141, 28, 28, 0.306);
+    color: #ffffff;
+}
+
+form input[type="submit"] {
+    background-color: #0671e4e8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
