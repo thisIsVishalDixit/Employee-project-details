@@ -1,14 +1,17 @@
-<img width="960" alt="image" src="https://github.com/thisIsVishalDixit/Employee-project-details/assets/131336590/11103f7a-494e-4e4f-a746-58b072590453"># 
 
 Employee-project-details
 
-this is a user login pannel
+This is welcome page. 
+Are you employee?
+Are you Manager?
+ 
 <img width="960" alt="image" src="https://github.com/thisIsVishalDixit/Employee-project-details/assets/131336590/982e676b-f8de-47d3-b709-535464566e77">
 
 
 this is a Admin login pannel
  <img width="960" alt="image" src="https://github.com/thisIsVishalDixit/Employee-project-details/assets/131336590/8b3dd4d1-2b9d-4a91-8132-9e9b8a48ac3f">
 
+this is a user login pannel
 This is a user pannel through we can insert project information. 
 
 <img width="960" alt="image" src="https://github.com/thisIsVishalDixit/Employee-project-details/assets/131336590/fbfce48d-744e-4e0b-96cf-e33fe9fbb648">
